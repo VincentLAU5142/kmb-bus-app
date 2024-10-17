@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kmb-bus-app/static/css/main.77389dcf.css",
+    "main.js": "/kmb-bus-app/static/js/main.11b5a939.js",
+    "static/js/453.760be867.chunk.js": "/kmb-bus-app/static/js/453.760be867.chunk.js",
+    "index.html": "/kmb-bus-app/index.html",
+    "main.77389dcf.css.map": "/kmb-bus-app/static/css/main.77389dcf.css.map",
+    "main.11b5a939.js.map": "/kmb-bus-app/static/js/main.11b5a939.js.map",
+    "453.760be867.chunk.js.map": "/kmb-bus-app/static/js/453.760be867.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77389dcf.css",
+    "static/js/main.11b5a939.js"
+  ]
+}
